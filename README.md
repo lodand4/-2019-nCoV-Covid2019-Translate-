@@ -1,214 +1,224 @@
 # -2019-nCoV-Covid2019-Translate-
 Перевод на английский статьи.Translation of the article into English.
-<h1>Мое личное исследование по поводу 2019-nCoV[1 этап перевода закончен<a href="http://translatedby.com/you/lichnoe-issledovanie-po-povodu-koronavirusa-2019-ncov/">1</a>. В ближайшую неделю должно быть большое обновление,Закончил первый этап дополнений.Ред.19.01]</h1>
+My personal research on 2019-nCoV [stage 1 translation completed <a href="http://translatedby.com/you/lichnoe-issledovanie-po-povodu-koronavirusa-2019-ncov/"> 1 </a>. There should be a big update in the coming week, I finished the first stage of additions. Rev.19.01
 
 <a href="https://habr.com/ru/sandbox/edit/137162/" target="_blank"><img src="https://habrastorage.org/webt/u1/hs/bg/u1hsbgl0c1l8prg6na_tyq6x9zq.jpeg" alt="" border="0" /></a>
-<abbr title="Картинка Для Привлечения Внимания">КДПВ</abbr>
+<abbr title="Attention Picture">КДПВ</abbr>
 
 <oembed>https://codepen.io/jamiahabrahan/details/LYVNowZ</oembed>
 <oembed>https://codepen.io/jamiahabrahan/pen/ZEGWNwP</oembed>
 <img src="https://nces.ed.gov/nceskids/createagraph/graphwrite.aspx?ID=86833807f9ed4fefbeb5cde2354f05c4&r=10148.5320425&file=png" alt="image"/>
-<a href="https://news.qq.com/zt2020/page/feiyan.htm">На китайском</a>
+<a href="https://news.qq.com/zt2020/page/feiyan.htm">In Chinese</a>
 https://hmp.me/cxq9
 
 <img src="https://hmp.me/cxq9" alt="image"/>
 <img src="https://hmp.me/cxr7" alt="image"/>
-<spoiler title="Неполные данные от 31.12 по 19.02">
-<img src="https://hmp.me/cxth" alt="image"/>Неполные данные за весь период
+<spoiler title="Incomplete data from December 31 to February 19">
+<img src="https://hmp.me/cxth" alt="image"/>Incomplete data for the entire period
 </spoiler>
 
-Починил якоря.Ссылки теперь кликабельные:
-Починил якоря второй раз. Теперь уже точно все работает.
-<li><a href="#news0"><font color="#cc0000">Новости сегодня</font></a></li>
-<li><a href="#link0"><font color="#cc0000">Обновляемые графики по 2019-nCov</font></a></li>
+Repaired anchors. Links are now clickable:
+I fixed the anchors a second time. Now everything is working for sure.
+<li><a href="#news0"><font color="#cc0000">New news</font></a></li>
+<li><a href="#link0"><font color="#cc0000">Updated Charts for 2019-nCov</font></a></li>
 
-Версия 4.0(Альфа). Могут быть ошибки и неточности. Окончание создания а течении 1-5 дней.
-Добавил 1 параграф.
-19.02
-Создал подробную таблицу.
-18.02
-Добавил 10 параграфов.
-Создал таймлайн, рассортировал новости по группам. К сожалению нет возможности его растянуть.
-17.02
-Новости теперь в конце списка.
-Вычитку проведу позднее.
-Версия на английском в течении  7 дней.
-Редизайн завершен. Изменил шаблон статьи. Улучшил многие параграфы.
-Показана дата изменений.
-Информация будет добавлена в течении недели.
-Добавлено немного новой информации. 
+Version 4.0 (Alpha). There may be errors and inaccuracies. The end of the creation and within 1-5 days.
+Added 1 paragraph.
+02/19
+Created a detailed table.
+02/18
+Added 10 paragraphs.
+Created a timeline, sorted the news into groups. Unfortunately, there is no way to stretch it.
+02.17
+News is now at the end of the list.
+I will conduct proofreading later.
+English version for 7 days.
+The redesign is complete. Changed the article template. Improved many paragraphs.
+Change date shown.
+Information will be added within a week.
+Added some new information.
 <cut />
 
 
-<spoiler title="Ремарки автора">
+<spoiler title="Author's remarks">
 <blockquote>
-Пропала часть данных:Статью обрезало на половине.
-
-
-Из-за ущербности oembed нет другого выбора. Либо я каждый день делаю скриншоты либо вам нужно клацать. Даже изменить размер не дают.
-Я никак не могу подгружать графики автоматически. Так хотелось все автоматизировать и сэкономить время на другие задачи.
-Из-за ущербности oembed,markdown... сайта  я не могу этого сделать.
-Потратил пол дня пытаясь автоматизировать график. Не получилось. :(</blockquote>
+Part of the data is missing: The article was cut off in half.
+Due to the flawed oembed there is no other choice. Either I take screenshots every day or you need to click. They do not even allow you to resize.
+I just can’t load the charts automatically. So I wanted to automate everything and save time on other tasks.
+Due to the inferiority of the oembed, markdown ... site I cannot do this.
+Spent half a day trying to automate the schedule. Did not work out. :(
+</blockquote>
 </spoiler>
 
-Починил якоря.Ссылки теперь кликабельные:
-<li><a href="#news_"><font color="#cc0000">Новые новости:(Изменено)</font></a></li>
-<li><a href="#link0"><font color="#cc0000">Обновляемые графики по 2019-nCov</font></a></li>
-
+Repaired anchors. Links are now clickable:
+I fixed the anchors a second time. Now everything is working for sure.
+<li><a href="#news0"><font color="#cc0000">New news</font></a></li>
+<li><a href="#news_"><font color="#cc0000">New news:(Changed)</font></a></li>
+<li><a href="#link0"><font color="#cc0000">Updated Charts for 2019-nCov</font></a></li>
 
 <a name="top"></a>
-<li><a href="#fact_"><font color="#cc0000">Расширенные факты:Семейство</font></a></li>
-<li><a href="#fact0">Расширенные факты:Типология</a></li>
-<li><a href="#fact1">Расширенные факты:Размер</a></li>
-<li><a href="#fact2">Расширенные факты:Другое</a></li>
-<li><a href="#fact3">Расширенные факты:Строение</a></li>
-<li><a href="#fact4"><font color="#cc0000">Данные о симптомах:Вторжение</font></a></li>
-<li><a href="#fact5"><font color="#cc0000">Данные о симптомах:Основные симптомы</font></a></li>
-<li><a href="#diff_"><font color="#cc0000">Сходные признаки трех коронавирусов</font></a></li>
-<li><a href="#whit_"><font color="#cc0000">Пробелы в понимании источника коронавируса</font></a></li>
-<li><a href="#whit0">Пробелы в понимании:Один из таких случаев</a></li>
-<li><a href="#whit1">Пробелы в понимании:Один из таких случаев,2</a></li>
-<li><a href="#whit2">Пробелы в понимании:Вероятно неправильные гипотезы</a></li>
-<li><a href="#whit3">Пробелы в понимании:Вероятный носитель,исследования</a></li>
-<li><a href="#whit4">Пробелы в понимании:Вероятный носитель,исследования,2</a></li>
-<li><a href="#whit5">Пробелы в понимании:Вероятный носитель,исследования,3</a></li>
-<li><a href="#whit6">Пробелы в понимании:Вероятный носитель,исследования,4</a></li>
-<li><a href="#whit7">Пробелы в понимании:Исследование, что было проведено с  hCoV-EMC</a></li>
-<li><a href="#whit8">Пробелы в понимании:Итоги</a></li>
-<li><a href="#spec_"><font color="#cc0000">Особенности коронавируса в.т.ч особенно важные.</font></a></li>
-<li><a href="#spec0">Особенности коронавируса:Инкубационный период</a></li>
-<li><a href="#spec1">Возможное происхождение:Способы распространения вируса:Заразность(Копия)</a></li>
+<li><a href="#fact_"><font color="#cc0000">Extended Facts: Family</font></a></li>
+<li><a href="#fact0">Extended Facts: Typology</a></li>
+<li><a href="#fact1">Extended Facts: Size</a></li>
+<li><a href="#fact2">Extended Facts: Other</a></li>
+<li><a href="#fact3">Extended facts: Structure</a></li>
+<li><a href="#fact4"><font color="#cc0000">Symptom Data: Invasion</font></a></li>
+<li><a href="#fact5"><font color="#cc0000">Symptom Data: Main Symptoms</font></a></li>
+<li><a href="#diff_"><font color="#cc0000">Similar signs of three coronaviruses</font></a></li>
+<li><a href="#whit_"><font color="#cc0000">Gaps in understanding coronavirus source</font></a></li>
+<li><a href="#whit0">Gaps in understanding:One case from the past ,1</a></li>
+<li><a href="#whit1">Gaps in understanding:One case from the past ,2</a></li>
+<li><a href="#whit2">Understanding Gaps: Probably Wrong Hypotheses</a></li>
+<li><a href="#whit3">Understanding Gaps: A Possible Carrier, Research</a></li>
+<li><a href="#whit4">Understanding Gaps: A Probable Virus Carrier, Research,1</a></li>
+<li><a href="#whit5">Understanding Gaps: A Probable Virus Carrier, Research,2</a></li>
+<li><a href="#whit6">Understanding Gaps: A Probable Virus Carrier, Research,3</a></li>
+<li><a href="#whit7">Gaps in understanding the coronavirus Source: A study that was conducted hCoV-EMC</a></li>
+<li><a href="#whit8">Gaps in understanding:Summary</a></li>
+<li><a href="#spec_"><font color="#cc0000">Features of coronavirus, including especially important.</font></a></li>
+<li><a href="#spec0">Features of coronavirus: Incubation period</a></li>
+<li><a href="#spec1">Possible origin: Virus transmission methods: Contagiousness (Copy)
+</a></li>
 <li><a href="#plac_"><font color="#cc0000">Возможное происхождение:</font></a></li>
-<li><a href="#plac0">Возможное происхождение:Итоги:Необходимые действия</a></li>
-<li><a href="#plac1">Возможное происхождение:Итоги:Подозрение</a></li>
-<li><a href="#plac2">Возможное происхождение:Способы распространения вируса</a></li>
-<li><a href="#plac3">Возможное происхождение:Способы распространения вируса:Заразность(Копия)</a></li>
-<li><a href="#defe_"><font color="#cc0000">Раздел2:Краткая история медицинских средств защиты.</font></a></li>
-<li><a href="#defs_"><font color="#cc0000">Раздел2:Особенности защиты от вируса:Лечение и профилактика</font></a></li>
-<li><a href="#defs0">Особенности защиты:Лечение</a></li>
-<li><a href="#defsa"><h4>Особенности защиты:Методы лечения.Вопрос от читателя:Влияние блокираторов ACE2</a></li>
-<li><a href="#defs1">Особенности защиты:Методы лечения(Копия)</a></li>
-<li><a href="#defs2">Особенности защиты:Вакцины(Копия)</a></li>
-<li><a href="#defn_"><font color="#cc0000">Раздел2:Особенности защиты от вируса:маски: За и Против</font></a></li>
-<li><a href="#defn0">Почему ВОЗ,другие медики не рекомендуют использовать маски, и почему их все-таки можно использовать</a></li>
-<li><a href="#defn1">Минусы СИЗ</a></li>
-<li><a href="#defn2">Плюсы СИЗ</a></li>
-<li><a href="#defo_"><font color="#cc0000">Раздел2:Особенности защиты от вируса:маски:Особенности</font></a></li>
-<li><a href="#defo0">Особенности защиты:Маски:Если</a></li>
-<li><a href="#defo1">Особенности защиты:Маски:Недостатки</a></li>
-<li><a href="#defo2">Итоги:Респираторы можно использовать.</a></li>
-<li><a href="#defo3">Особенности защиты:Маски:Лучший вариант</a></li>
-<li><a href="#defi_"><font color="#cc0000">Раздел2:Особенности защиты от вируса:обычной маски:Исследования</font></a></li>
-<li><a href="#defi0">Выживаемость вируса:Влияние воды,в основном позитивно для вируса.(Копия)</a></li>
-<li><a href="#defi1">Итоги:Эфективность фильтрации респираторов.(Копия)</a></li>
-<li><a href="#defh_"><font color="#cc0000">Раздел2:Приспосабливаемость коронавируса к хозяину</font></a></li>
-<li><a href="#defh0">Выживаемость вируса:Постраиваемость вируса.</a></li>
-<li><a href="#defh1">Выживаемость вируса:Переход между видами.</a></li>
-<li><a href="#resi_"><font color="#cc0000">Раздел2:Вводная информация о живучести вирусов.</font></a></li>
-<li><a href="#resi0">Выживаемость вируса:Влияние температуры,ключевой фактор.</a></li>
-<li><a href="#resi1">Выживаемость вируса:Вопрос от читателя.</a></li>
-<li><a href="#resi2">Выживаемость вируса:Влияние влажности,дополнительный фактор.</a></li>
-<li><a href="#resi3">Выживаемость вируса:Влияние температуры,ключевой фактор.(Копия)</a></li>
-<li><a href="#resi4">Влияние способа распространения:Итоги</a></li>
-<li><a href="#resi5">Выживаемость вируса:Влияние активности солнечного света.</a></li>
-<li><a href="#resi6">Выживаемость вируса:Влияние воды,в основном позитивно для вируса.</a></li>
-<li><a href="#resi7">Итоги:Эффективность фильтрации респираторов.(Копия)</a></li>
-<li><a href="#resi8">Итоги:Почему нужно менять маски.(Копия)</a></li>
-<li><a href="#resi9">Влияние других мер на ситуацию</a></li>
-<li><a href="#resia">Влияние других мер на ситуацию,промывание носа, ответ на вопрос читателя</a></li>
-<li><a href="#ress_"><font color="#cc0000">Раздел2:Фактор размера, выживаемости и передачи вируса против методов обработки</font></a></li>
-<li><a href="#ress0">Влияние других мер на инактивацию</a></li>
-<li><a href="#ress1">Влияние средств обработки на инактивацию</a></li>
-<li><a href="#ress2">Влияние ультрафиолета на инактивацию, ответ на вопрос читателя</a></li>
-<li><a href="#ress3">Влияние озона на инактивацию, ответ на вопрос читателя</a></li>
-<li><a href="#rest_"><font color="#cc0000">Раздел2:Итоги:Информация о живучести коронавируса на поверхностях.</font></a></li>
-<li><a href="#rest0">Вероятности сохранения вируса на поверхностях:Итоги</a></li>
-<li><a href="#rest1">Вероятности сохранения вируса на поверхностях:Итоги,2</a></li>
-<li><a href="#rest2">Статистика:Проблеммы с изучением(копия):</a></li>
-<li><a href="#rest3">Вероятности сохранения вируса на поверхностях без инактивации</a></li>
-<li><a href="#rest4">Вероятности сохранения вируса на поверхностях без инактивации:влияние основного фактора</a></li>
-<li><a href="#dfns_"><font color="#cc0000">Раздел2:Итоги:вероятная живучесть вируса</font></a></li>
-<li><a href="#dfns0">Вероятности сохранения вируса на поверхностях без инактивации:Итоги.</a></li>
-<li><a href="#dfns1">Итоги:Эфективность фильтрации респираторов.(Копия)</a></li>
-<li><a href="#dfns2">Итоги:Почему нужно менять маски.(Копия)</a></li>
-<li><a href="#stat_"><font color="#cc0000">Раздел3:Данные о заболеваемости Sars(Для сравнения)</font></a></li>
-<li><a href="#stat0">Статистика по SARS:Случаи</a></li>
-<li><a href="#stat1">Статистика по SARS:Смертность</a></li>
-<li><a href="#stat2">Статистика по SARS:Смертность по возрасту</a></li>
-<li><a href="#stst_"><font color="#cc0000">Раздел3:Данные о заболеваемости 2019-nCoV</font></a></li>
-<li><a href="#stst0">Статистика вероятность смертности:по возрасту</a></li>
-<li><a href="#stst1">Статистика вероятность заражения:по возрасту</a></li>
-<li><a href="#stst2">Статистика вероятность для других групп</a></li>
-<li><a href="#stst3">Статистика вероятность излечения</a></li>
-<li><a href="#stst4">Статистика:колличество погибших(Больше данных в таблице графика.С 11.02)</a></li>
-<li><a href="#stst5">Статистика:колличество выписанных</a></li>
-<li><a href="#stst5">Статистика:колличество подозрений</a></li>
-<li><a href="#stst6">Статистика:колличество обычных случаев</a></li>
-<li><a href="#stst7">Статистика:колличество тяжелых случаев</a></li>
-<li><a href="#stst8">Статистика:Накопительные случаи(Больше данных в таблице графика.С 11.02)</a></li>
-<li><a href="#sstt_"><font color="#cc0000">Раздел3:Статистика:данные по странам</font></a></li>
-<li><a href="#ssot_"><font color="#cc0000">Раздел3:Статистика:Примечания и итоги</font></a></li>
-<li><a href="#ssst_">Статистика:Итоги:</a></li>
-<li><a href="#stss_"><font color="#cc0000">Раздел3:Приблизительная простая схема оценки</font></a></li>
-<li><a href="#stss0">Статистика:Прогноз:Допущения:</a></li>
-<li><a href="#stss1">Особенности коронавируса в.т.ч особенно важные:Распространение без симптомов(Копия)</a></li>
-<li><a href="#stss2">Особенности коронавируса в.т.ч особенно важные:Распространение без симптомов(Копия)</a></li>
-<li><a href="#stss3">Особенности коронавируса в.т.ч особенно важные:Распространение без симптомов:Мнение(Копия)</a></li>
-<li><a href="#mode_"><font color="#cc0000">Итоги: Модели оценки других специалистов</font></a></li>
-<li><a href="#mode0">Статистика:Прогноз:Прогнозная модель,1</a></li>
-<li><a href="#mode1">Статистика:Прогноз:Прогнозная модель,2</a></li>
-<li><a href="#mode2">Статистика:Прогноз:Прогнозная модель,3</a></li>
-<li><a href="#mode3">Статистика:Прогноз:Прогнозная модель,4</a></li>
-<li><a href="#mode4">Статистика:Прогноз:Моя модель</a></li>
-<li><a href="#mode5">Статистика:Проблеммы с изучением:</a></li>
-<li><a href="#mode6">Статистика:Полемика в отношении прогнозов</a></li>
-<li><a href="#summ_"><font color="#cc0000">Итоги:Этапы реагирования государства и прогнозы</font></a></li>
-<li><a href="#summ0">Особенности защиты:Методы лечения(Копия)</a></li>
-<li><a href="#summ1">Особенности защиты:Вакцины(Копия)</a></li>
-<li><a href="#sumr_"><font color="#cc0000">Итоги:Оценка опасности</font></a></li>
-<li><a href="#sumr0">Итоги:Возможное происхождение:Способы распространения вируса:Заразность(Копия)</a></li>
-<li><a href="#sumr1">Итоги:Возможное происхождение:Возможность межвидового распространения</a></li>
-<li><a href="#sumr3">Итоги:Оценка опасности:Возможность межвидового распространения</a></li>
-<li><a href="#sumr4">Итоги:Оценка опасности:Пределы системы здравоохранения</a></li>
-<li><a href="#sumr5">Итоги:Оценка опасности:Длительность и хвосты</a></li>
-<li><a href="#sumr6">Итоги:Оценка опасности:Фактор нового года</a></li>
-<li><a href="#sumr7">Итоги:Оценка опасности:Фактор нового года,2(Копия)</a></li>
-<li><a href="#sumr8">Итоги:Оценка опасности:Фактор нового года,3(Копия)</a></li>
-<li><a href="#sumr9">Итоги:Прогнозные модели</a></li>
-<li><a href="#sumra">Итоги:Вероятность разработки вакцин</a></li>
-<li><a href="#sumrb">Итоги:Вероятность разработки вакцин</a></li>
-<li><a href="#sumd_"><font color="#cc0000">Итоги:Оценка опасности:Влияние лага на статистику.Влияние инкубационного периода:</font></a></li>
-<li><a href="#sumd0">Итоги:Влияние инкубационного периода</a></li>
-<li><a href="#sumd1">Итоги:Влияние инкубационного периода:Припущение о выход за пределы уровня SARS</a></li>
-<li><a href="#sumd2">Итоги:Влияние окна до момента реакции властей</a></li>
-<li><a href="#sumd3">Итоги:Оценка опасности:Фактор нового года,2(Копия)</a></li>
-<li><a href="#sumr_"><font color="#cc0000">Типичные заблуждения относительно вируса:</font></a></li>
-<li><a href="#summ0"><font color="#cc0000">Итоги:Последствия</font></a></li>
-<li><a href="#summ1"><font color="#cc0000">Итоги:Прогнозы и реальность</font></a></li>
+<li><a href="#plac0">Possible origin: Summary: Action required</a></li>
+<li><a href="#plac1">Possible origin:Summary: Suspicion</a></li>
+<li><a href="#plac2">Possible origin: Methods of spreading the virus</a></li>
+<li><a href="#plac3">Possible origin: Virus transmission methods: Contagiousness (Copy)</a></li>
+<li><a href="#defe_"><font color="#cc0000">Section 2: A Brief History of Medical Remedies</font></a></li>
+<li><a href="#defs_"><font color="#cc0000">Section 2: Features of protection against the virus: Treatment and prevention</font></a></li>
+<li><a href="#defs0">Protection Features: Treatment</a></li>
+<li><a href="#defsa"><h4>Protection features: Treatment methods. Question from the reader: Effect of ACE2 blockers</a></li>
+<li><a href="#defs1">Protection Features: Treatment Methods (Copy)
+</a></li>
+<li><a href="#defs2">Protection Features: Vaccines (Copy)</a></li>
+<li><a href="#defn_"><font color="#cc0000">Section 2: Features of the virus protection: masks: Pros and Cons</font></a></li>
+<li><a href="#defn0">Why WHO, other doctors do not recommend the use of masks. Why you can still use them</a></li>
+<li><a href="#defn1">Cons of PPE</a></li>
+<li><a href="#defn2">Pros of PPE</a></li>
+<li><a href="#defo_"><font color="#cc0000">РSection 2: Features of the virus protection: masks: Features</font></a></li>
+<li><a href="#defo0">Protection Features: Masks: If</a></li>
+<li><a href="#defo1">Protection Features: Masks: Disadvantages</a></li>
+<li><a href="#defo2">Summary: Respirators can be used.</a></li>
+<li><a href="#defo3">Protection Features: Masks: Best Option</a></li>
+<li><a href="#defi_"><font color="#cc0000">Section 2: Features of virus protection: conventional mask: Research</font></a></li>
+<li><a href="#defi0">Virus survival: The effect of water is mostly positive for the virus. (Copy)</a></li>
+<li><a href="#defi1">Summary: Respiratory Filtering Efficiency. (Copy)</a></li>
+<li><a href="#defh_"><font color="#cc0000">Section 2: Host Coronavirus Adaptability</font></a></li>
+<li><a href="#defh0">Virus Survival: Adaptability of the Virus.</a></li>
+<li><a href="#defh1">Virus survival: Interspecific transition.</a></li>
+<li><a href="#resi_"><font color="#cc0000">Section 2: Introductory information on the survivability of viruses.</font></a></li>
+<li><a href="#resi0">Virus survival: Effect of temperature, a key factor.</a></li>
+<li><a href="#resi1">Virus survival: Question from the reader.</a></li>
+<li><a href="#resi2">Virus survival: Humidity, an additional factor.</a></li>
+<li><a href="#resi3">Virus Survival: Effect of Temperature, Key Factor. (Copy)a></li>
+<li><a href="#resi4">Distribution Impact: Summary</a></li>
+<li><a href="#resi5">Virus survival: Effect of sunlight activity.</a></li>
+<li><a href="#resi6">Virus survival: The effect of water is mainly positive for the virus.</a></li>
+<li><a href="#resi7">Summary: Respiratory Filtering Efficiency. (Copy)</a></li>
+<li><a href="#resi8">Summary: Why you need to change the mask. (Copy)</a></li>
+<li><a href="#resi9">The impact of other measures on the situation</a></li>
+<li><a href="#resia">The impact of other measures on the situation, nose washing, answer to the reader’s question</a></li>
+<li><a href="#ress_"><font color="#cc0000">Section 2: Factor of virus size, survival and transmission versus all methods</font></a></li>
+<li><a href="#ress0">The effect of other measures on inactivation</a></li>
+<li><a href="#ress1">The effect of treatment on inactivation</a></li>
+<li><a href="#ress2">The effect of ultraviolet radiation on inactivation, an answer to a reader’s question</a></li>
+<li><a href="#ress3">The effect of ozone on inactivation, an answer to a reader’s question</a></li>
+<li><a href="#rest_"><font color="#cc0000">Section2: Summary: Information about the survivability of the coronavirus on surfaces.</font></a></li>
+<li><a href="#rest0">Probabilities of virus conservation on surfaces: Summary</a></li>
+<li><a href="#rest1">Probabilities of virus conservation on surfaces: Summary,2</a></li>
+<li><a href="#rest2">Statistics: Learning problems (copy):</a></li>
+<li><a href="#rest3">Probabilities of keeping the virus on surfaces without inactivation</a></li>
+<li><a href="#rest4">Probabilities of virus conservation on surfaces without inactivation: influence of the main factor</a></li>
+<li><a href="#dfns_"><font color="#cc0000">Section 2: Summary: Virus Potential Viability</font></a></li>
+<li><a href="#dfns0">Probabilities of virus conservation on surfaces without inactivation: Summary.</a></li>
+<li><a href="#dfns1">Summary: Respiratory Filtering Efficiency. (Copy)</a></li>
+<li><a href="#dfns2">Summary: Why you need to change the mask. (Copy)</a></li>
+<li><a href="#stat_"><font color="#cc0000">Section 3: Sars Incidence Data (For Comparison)</font></a></li>
+<li><a href="#stat0">SARS Statistics: Cases</a></li>
+<li><a href="#stat1">SARS Statistics: Mortality</a></li>
+<li><a href="#stat2">SARS Statistics: Mortality by Age</a></li>
+<li><a href="#stst_"><font color="#cc0000">Section 3: 2019-nCoV incidence data</font></a></li>
+<li><a href="#stst0">Statistics: mortality probability: by age</a></li>
+<li><a href="#stst1">Statistics: probability of infection: by age</a></li>
+<li><a href="#stst2">Probability statistics for other groups</a></li>
+<li><a href="#stst3">Statistics: Cure Probability</a></li>
+<li><a href="#stst4">Statistics: death toll (More data in the chart table. From 11.02)</a></li>
+<li><a href="#stst5">Statistics: the number of issued</a></li>
+<li><a href="#stst5">Statistics: Number of suspicions</a></li>
+<li><a href="#stst6">Statistics: number of common cases</a></li>
+<li><a href="#stst7">Statistics: number of severe cases</a></li>
+<li><a href="#stst8">Statistics: Cumulative cases (More data in the chart table. From 11.02)</a></li>
+<li><a href="#sstt_"><font color="#cc0000">Section 3: Statistics: Country Data</font></a></li>
+<li><a href="#ssot_"><font color="#cc0000">Section 3: Statistics: Notes and Summary</font></a></li>
+<li><a href="#ssst_">Statistics: Results:</a></li>
+<li><a href="#stss_"><font color="#cc0000">Section 3: Approximate Simple Assessment Scheme</font></a></li>
+<li><a href="#stss0">Statistics: Forecast: Assumptions:</a></li>
+<li><a href="#stss1">The characteristics of the coronavirus, including hc, are especially important: Distribution without symptoms (copy)</a></li>
+<li><a href="#stss2">The characteristics of the coronavirus, including hc, are especially important: Distribution without symptoms (copy)</a></li>
+<li><a href="#stss3">The characteristics of the coronavirus, including hc, are especially important: Distribution without symptoms: Opinion (Copy)
+</a></li>
+<li><a href="#mode_"><font color="#cc0000">Summary: Assessment Models for Other Professionals</font></a></li>
+<li><a href="#mode0">Statistics: Forecast: Forecast model, 1</a></li>
+<li><a href="#mode1">Statistics: Forecast: Forecast model, 2</a></li>
+<li><a href="#mode2">Statistics: Forecast: Forecast model, </a></li>
+<li><a href="#mode3">Statistics: Forecast: Forecast model, 4</a></li>
+<li><a href="#mode4">Statistics: Forecast: My model</a></li>
+<li><a href="#mode5">Statistics: Problems with the study:</a></li>
+<li><a href="#mode6">Statistics: Forecasting Controversy</a></li>
+<li><a href="#summ_"><font color="#cc0000">Summary: State Response Stages and Forecasts</font></a></li>
+<li><a href="#summ0">Protection Features: Treatment Methods (Copy)</a></li>
+<li><a href="#summ1">Protection Features: Vaccines (Copy)</a></li>
+<li><a href="#sumr_"><font color="#cc0000">Summary: Hazard Assessment</font></a></li>
+<li><a href="#sumr0">Summary: Possible origin: Virus transmission routes: (Copy)</a></li>
+<li><a href="#sumr1">Summary: Possible origin: Interspecific distribution</a></li>
+<li><a href="#sumr3">Summary: Hazard assessment: Interspecific distribution
+</a></li>
+<li><a href="#sumr4">Summary: Hazard Assessment: Health System Limits
+</a></li>
+<li><a href="#sumr5">Summary:Risk assessment: The duration and the "tails"</a></li>
+<li><a href="#sumr6">Summary: Hazard Assessment: New Year Factor
+</a></li>
+<li><a href="#sumr7">Summary: Hazard Assessment: New Year Factor, 2 (Copy)</a></li>
+<li><a href="#sumr8">Summary: Hazard Assessment: New Year Factor, 3 (Copy)</a></li>
+<li><a href="#sumr9">Summary: Predictive Models</a></li>
+<li><a href="#sumra">Summary: Vaccine Development Probability</a></li>
+<li><a href="#sumrb">Summary: Vaccine Development Probability</a></li>
+<li><a href="#sumd_"><font color="#cc0000">Summary:Hazard assessment: The impact of the lag on statistics. Effect of incubation period:
+</font></a></li>
+<li><a href="#sumd0">Summary: The effect of the incubation period</a></li>
+<li><a href="#sumd1">Outcomes: Impact of the incubation period: Assumption of going beyond the SARS level</a></li>
+<li><a href="#sumd2">Summary: The effect of the window until the authorities react</a></li>
+<li><a href="#sumd3">Summary: Hazard Assessment: New Year Factor, 2 (Copy)</a></li>
+<li><a href="#sumr_"><font color="#cc0000">Typical misconceptions regarding the virus:</font></a></li>
+<li><a href="#summ0"><font color="#cc0000">Summary: Consequences</font></a></li>
+<li><a href="#summ1"><font color="#cc0000">Summary: Forecasts and Realityfont></a></li>
 <li><a href="#summ2"><font color="#cc0000">Итоги:Необходимые меры</font></a></li>
-<li><a href="#link_"><font color="#cc0000">Часть ссылок</font></a></li>
+<li><a href="#link_"><font color="#cc0000">Some links</font></a></li>
 <li><a href="#link0"><font color="#cc0000">Обновляемые графики по 2019-nCov</font></a>
-<li><a href="#news_"><font color="#cc0000">Новые новости:(Изменено)</font></a></li>
+<li><a href="#news_"><font color="#cc0000">News: (Changed)</font></a></li>
 
-<li><a href="anal_"><font color="#cc0000">Анализ вероятных факторов влияния:Начало</font></a></li>
-<li><a href="anal0">Начальная фаза:Реагирование:Реакция медиков</a></li>
-<li><a href="anla_"><font color="#cc0000">Анализ вероятных факторов влияния:Начальная фаза</font></a></li>
-<li><a href="anla1">Начальная фаза:Реагирование:Реакция медиков,2</a></li>
-<li><a href="anla2">Начальная фаза:Реагирование:Реакция властей и организаций</a></li>
-<li><a href="anla3">Начальная фаза:Реагирование:Реакция СМИ</a></li>
-<li><a href="fact_"><font color="#cc0000">Анализ вероятных факторов влияния:Начальная фаза:Предположения</font></a></li>
-<li><a href="fact0">Начальная фаза:Вероятность:Припущение:Вероятность начала вспышки раньше</a></li>
-<li><a href="fact1">Начальная фаза:Вероятность:Предоположение №1:Итого:</a></li>
-<li><a href="fact2">Начальная фаза:Вероятность:Предоположение №1:Основные факторы влияния на статистику</a></li>
-<li><a href="fact3">Внутренние факторы:Факторы вероятности реакций</a></li>
-<li><a href="fact4">Внутренние факторы:Симптомы</a></li>
-<li><a href="fact5">Внутренние факторы статистической системы</a></li>
-<li><a href="fact6">Внутренние факторы связнные с общими показателями</a></li>
-<li><a href="fact7">Внешние факторы связнные с общими показателями</a></li>
-<li><a href="fact8">Внутренние факторы связнные с вирусораспространителями</a></li>
-<li><a href="fact9">Внешние факторы связнные с вирусораспространителями</a></li>
-<li><a href="facta">Внутренние факторы связнные с системой контроля</a></li>
-<li><a href="factb">Итоги:Проблеммы статистики</a></li>
+<li><a href="anal_"><font color="#cc0000">Analysis of Probable Influences: The Beginning</font></a></li>
+<li><a href="anal0">Initial phase: Response: Medics reaction</a></li>
+<li><a href="anla_"><font color="#cc0000">Analysis of Probable Influencing Factors: Initial Phase</font></a></li>
+<li><a href="anla1">Initial phase: Response: Medics reaction, 2</a></li>
+<li><a href="anla2">Initial phase: Response: Reaction of authorities and organizations</a></li>
+<li><a href="anla3">Initial phase: Response: Media response</a></li>
+<li><a href="fact_"><font color="#cc0000">Analysis of Probable Influencing Factors: Initial Phase: Assumptions</font></a></li>
+<li><a href="fact0">Initial phase: Probability: Assumption: The probability of an outbreak starting earlier</a></li>
+<li><a href="fact1">Initial phase: Probability: Proposition No. 1: Total:a></li>
+<li><a href="fact2">Initial phase: Probability: Proposition No. 1: The main factors influencing statistics</a></li>
+<li><a href="fact3">Internal Factors: Reaction Probability Factors</a></li>
+<li><a href="fact4">Internal Factors: Symptoms</a></li>
+<li><a href="fact5">Internal factors of the statistical system</a></li>
+<li><a href="fact6">Internal factors associated with common indicators
+</a></li>
+<li><a href="fact7">External factors associated with common indicators
+</a></li>
+<li><a href="fact8">Internal factors associated with the virus disseminators</a></li>
+<li><a href="fact9">External factors associated with the virus disseminators</a></li>
+<li><a href="facta">Internal factors associated with the control system
+</a></li>
+<li><a href="factb">Summary: Statistics Issues</a></li>
 
 Полный геном 2019-nCoV, теперь хранится онлайн в <a href="https://www.ncbi.nlm.nih.gov/nuccore/MN908947">GenBank: MN908947.3</a>.
 
